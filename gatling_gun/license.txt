@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gatling Gun
+* source:	https://sketchfab.com/3d-models/gatling-gun-f1ee47a632124c5d88493b5dfbb21967
+* author:	Waseem963 (https://sketchfab.com/Waseem963)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gatling Gun" (https://sketchfab.com/3d-models/gatling-gun-f1ee47a632124c5d88493b5dfbb21967) by Waseem963 (https://sketchfab.com/Waseem963) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
