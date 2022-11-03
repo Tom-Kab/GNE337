@@ -1,0 +1,326 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9529,
+      "max": [
+        88.85708618164063,
+        -7.891970634460449,
+        70.15253448486328
+      ],
+      "min": [
+        -16.756858825683594,
+        -38.7078742980957,
+        40.66272735595703
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 114348,
+      "componentType": 5126,
+      "count": 9529,
+      "max": [
+        0.9949355125427246,
+        0.9981825351715088,
+        0.9991471171379089
+      ],
+      "min": [
+        -0.9949355125427246,
+        -0.9988218545913696,
+        -0.9998052716255188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 56373,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 228696,
+      "componentType": 5126,
+      "count": 8550,
+      "max": [
+        88.31238555908203,
+        -12.760496139526367,
+        69.99610137939453
+      ],
+      "min": [
+        2.9404051303863525,
+        -39.203365325927734,
+        39.41722106933594
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 331296,
+      "componentType": 5126,
+      "count": 8550,
+      "max": [
+        0.9999752044677734,
+        0.9996111989021301,
+        0.9991471171379089
+      ],
+      "min": [
+        -0.9999737739562988,
+        -0.9999299645423889,
+        -0.9995307922363281
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 225492,
+      "componentType": 5125,
+      "count": 47823,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 433896,
+      "componentType": 5126,
+      "count": 7805,
+      "max": [
+        86.15673065185547,
+        -11.758711814880371,
+        68.2350082397461
+      ],
+      "min": [
+        -15.209538459777832,
+        -37.846431732177734,
+        40.12154006958008
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 527556,
+      "componentType": 5126,
+      "count": 7805,
+      "max": [
+        0.9999613165855408,
+        0.9999921917915344,
+        0.9998276829719543
+      ],
+      "min": [
+        -0.9987758994102478,
+        -0.9997830986976624,
+        -0.9994062781333923
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 416784,
+      "componentType": 5125,
+      "count": 43377,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 621216,
+      "componentType": 5126,
+      "count": 3155,
+      "max": [
+        86.32659149169922,
+        -12.492086410522461,
+        66.6247787475586
+      ],
+      "min": [
+        -15.113739967346191,
+        -35.023921966552734,
+        44.52810287475586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 659076,
+      "componentType": 5126,
+      "count": 3155,
+      "max": [
+        0.9927968382835388,
+        0.9996111392974854,
+        0.9990490078926086
+      ],
+      "min": [
+        -0.9927966594696045,
+        -0.9999299645423889,
+        -0.9998052716255188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 590292,
+      "componentType": 5125,
+      "count": 18471,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Shadowkeep (https://sketchfab.com/Shadowkeep)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-gatling-gun-05768f7cba3947119b4a31dcdbc8f07b",
+      "title": "Low Poly Gatling Gun"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 664176,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 696936,
+      "byteOffset": 664176,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1361112,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.123234262925839e-17,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        6.123234262925839e-17,
+        0.0,
+        0.0,
+        -7.105427357601003e-15,
+        7.105427357601e-15,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "Gatling_Gun.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
